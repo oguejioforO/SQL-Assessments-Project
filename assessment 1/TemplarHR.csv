@@ -1,0 +1,664 @@
+employee_ID,Job Title,Department,Job level,HourlyRate,Annual Rate,Employment Status,AnnualHours,YearsAtCompany,YearsInCurrentRole,Age,Gender,Visible_Minority
+10014,Analyst,IT,3,28.69,59686,FT,2080,6,5,32,Female,1
+10017,Clerk,Finance,1,31.04,43450,PT,1400,15,13,38,Male,0
+10038,Tech,IT,1,22.05,45858,FT,2080,6,1,33,Male,0
+10052,Analyst,Sales & Marketing,3,35.22,73254,FT,2080,2,1,28,Female,1
+10072,Sales Rep,Sales & Marketing,3,20.37,42368,FT,2080,1,1,28,Male,1
+10100,Coordinator,Logistics,3,22.27,46772,FT,2100,4,2,32,Male,1
+10120,Sales Rep,Sales & Marketing,3,49.9,103796,FT,2080,5,5,33,Male,0
+10122,Sales Rep,Sales & Marketing,3,37.81,78645,FT,2080,9,1,36,Male,0
+10145,Analyst,Logistics,3,17.86,37512,FT,2100,0,0,26,Female,1
+10206,Assembler,Operations,1,23.95,49810,FT,2080,26,25,47,Male,1
+10226,Operator,Operations,1,19.68,40937,FT,2080,6,2,27,Male,0
+10238,Analyst,IT,3,35.77,28617,PT,800,6,6,32,Male,0
+10262,Manager,Sales & Marketing,4,59.01,122745,FT,2080,22,7,48,Female,0
+10294,Tech,IT,1,30.89,64246,FT,2080,15,12,40,Female,0
+10329,Sales Rep,Sales & Marketing,3,65.43,136094,FT,2080,3,1,29,Female,0
+10333,Team Lead,IT,2,33.34,69348,FT,2080,26,14,52,Female,0
+10346,Tech,Operations,1,16.96,33923,FT,2000,7,1,30,Male,1
+10349,Clerk,IT,1,28.32,58916,FT,2080,13,12,41,Male,0
+10352,Analyst,Sales & Marketing,3,49.39,102724,FT,2080,20,2,42,Female,0
+10353,Team Lead,Operations,2,24.3,50549,FT,2080,24,9,47,Male,0
+10384,Analyst,Operations,3,40.65,84560,FT,2080,4,4,32,Male,0
+10385,Manager,Sales & Marketing,4,43.51,90497,FT,2080,20,6,48,Male,0
+10398,Engineer,Operations,3,49.41,102766,FT,2080,16,2,43,Female,1
+10400,Manager,Operations,4,66,137280,FT,2080,19,14,45,Male,1
+10462,Clerk,Finance,1,19.89,41374,FT,2080,20,16,41,Female,1
+10465,Analyst,IT,3,38.91,80937,FT,2080,14,14,36,Female,0
+10505,Sales Rep,Sales & Marketing,3,24.74,51451,FT,2080,22,18,46,Male,0
+10528,Engineer,Operations,3,48.98,101887,FT,2080,3,1,27,Male,1
+10561,Clerk,IT,1,14.98,10489,PT,700,2,1,27,Male,0
+10591,Sales Rep,Sales & Marketing,3,62.68,130365,FT,2080,8,7,33,Male,1
+10632,Assembler,Operations,1,16.89,35134,FT,2080,3,3,23,Male,1
+10650,Analyst,Sales & Marketing,3,39.4,81952,FT,2080,7,7,35,Male,0
+10674,Tech,IT,1,18.68,38863,FT,2080,2,1,29,Male,1
+10678,Accountant,Finance,3,45.65,94954,FT,2080,14,14,42,Female,0
+10689,Director,Operations,4,82.28,171149,FT,2080,6,1,39,Male,0
+10705,Analyst,Sales & Marketing,3,41.83,87014,FT,2080,15,15,39,Male,1
+10707,Accountant,Finance,3,37.94,78921,FT,2080,14,12,37,Female,0
+10723,Analyst,Sales & Marketing,3,41.63,86591,FT,2080,6,6,31,Female,1
+10751,Clerk,IT,1,26.74,55622,FT,2080,12,11,35,Male,0
+10775,Sales Rep,Sales & Marketing,3,24.05,50019,FT,2080,10,10,35,Male,0
+10787,Clerk,IT,1,27.88,57995,FT,2080,4,2,27,Female,0
+10799,Analyst,IT,3,32.9,68429,FT,2080,3,3,29,Female,1
+10824,Operator,Operations,1,24.45,50861,FT,2080,14,12,32,Male,0
+10832,Accountant,Finance,3,33.11,68868,FT,2080,2,1,28,Female,1
+10843,Sales Rep,Sales & Marketing,3,40.74,84740,FT,2080,15,1,43,Male,0
+10847,Tech,IT,1,25.48,20380,PT,800,6,1,32,Female,1
+10880,Manager,Sales & Marketing,4,61.14,127181,FT,2080,9,7,33,Male,0
+10892,Clerk,IT,1,26.94,56025,FT,2080,1,1,28,Female,0
+10896,Clerk,Finance,1,20.27,42159,FT,2080,19,16,41,Male,0
+10902,Accountant,Finance,3,31.43,65379,FT,2080,3,3,29,Male,0
+10914,Manager,IT,4,50.05,104104,FT,2080,19,1,29,Female,0
+10920,Analyst,Operations,3,36.47,75856,FT,2080,7,5,29,Female,1
+10940,Operator,Operations,1,20.4,42424,FT,2080,5,5,27,Male,0
+10954,Operator,Operations,1,19.67,40907,FT,2080,7,7,25,Female,0
+10989,Clerk,IT,1,21.34,44377,FT,2080,5,3,25,Male,1
+10993,Sales Rep,Sales & Marketing,3,32.34,67266,FT,2080,13,0,35,Female,0
+11001,Team Lead,Operations,2,29.58,61517,FT,2080,14,21,34,Female,0
+11008,Analyst,Sales & Marketing,3,34.94,72679,FT,2080,4,1,27,Male,1
+11080,Operator,Operations,1,22.19,26627,PT,1200,10,3,34,Male,0
+11084,Sales Rep,Sales & Marketing,3,51.03,106135,FT,2080,1,1,28,Female,1
+11086,Sales Rep,Sales & Marketing,3,25.33,52688,FT,2080,15,15,41,Female,0
+11090,Clerk,Logistics,1,16.85,35378,FT,2100,8,7,29,Female,0
+11108,Clerk,IT,1,20.44,42511,FT,2080,2,1,28,Female,1
+11119,Sales Rep,Sales & Marketing,3,31.28,65068,FT,2080,5,1,29,Male,0
+11122,Clerk,Finance,1,19.47,27253,PT,1400,3,2,29,Female,1
+11197,Analyst,Sales & Marketing,3,48.51,100892,FT,2080,22,12,44,Male,1
+11201,Tech,Logistics,1,35.49,74519,FT,2100,9,1,33,Male,0
+11202,Sales Rep,Sales & Marketing,3,56.07,116618,FT,2080,21,9,46,Male,0
+11216,Clerk,Finance,1,29.92,41885,PT,1400,5,0,29,Female,0
+11229,Coordinator,Logistics,3,23.93,33498,FT,1400,3,15,28,Male,0
+11230,Analyst,Sales & Marketing,3,35.48,73803,FT,2080,1,1,23,Male,0
+11249,Tech,IT,1,19.91,41403,FT,2080,4,1,27,Male,0
+11256,Clerk,Operations,1,18.16,14530,PT,800,5,4,32,Male,1
+11259,Clerk,Logistics,1,18.05,37909,FT,2100,9,8,32,Female,1
+11269,Tech,IT,1,15.86,32983,FT,2080,12,9,39,Female,0
+11275,Engineer,Operations,3,55.41,115252,FT,2080,20,3,47,Male,1
+11319,Clerk,Finance,1,19.08,39695,FT,2080,20,20,41,Male,1
+11330,Analyst,Sales & Marketing,3,41.22,85738,FT,2080,7,4,29,Female,1
+11336,Analyst,Logistics,3,17.38,36493,FT,2100,2,1,27,Male,1
+11341,Sales Rep,Sales & Marketing,3,62.09,129142,FT,2080,1,1,21,Female,1
+11358,Engineer,Operations,3,43.77,91042,FT,2080,3,1,27,Female,1
+11358,Engineer,Operations,3,52.14,108455,FT,2080,3,1,27,Male,1
+11434,Clerk,IT,1,20.3,28427,PT,1400,3,2,26,Male,0
+11445,Analyst,IT,3,43.77,91042,FT,2080,16,6,41,Female,0
+11468,Clerk,IT,1,33.7,70098,FT,2080,9,7,31,Female,1
+11493,Analyst,Logistics,3,21,44093,FT,2100,12,10,38,Female,0
+11499,Operator,Operations,1,19.9,41394,FT,2080,5,1,24,Male,1
+11500,Tech,IT,1,26.88,21502,PT,800,15,1,37,Female,0
+11521,Analyst,Sales & Marketing,3,45.07,93742,FT,2080,16,9,41,Male,0
+11526,Operator,Operations,1,24.32,50582,FT,2080,16,16,42,Female,1
+11543,Assembler,Operations,1,21.32,44354,FT,2080,6,6,29,Male,1
+11558,Manager,Operations,4,31.86,60541,FT,1900,23,4,48,Male,0
+11609,Sales Rep,Sales & Marketing,3,24.99,51985,FT,2080,23,23,51,Male,1
+11614,Accountant,Finance,3,45.86,95394,FT,2080,11,1,32,Female,0
+11619,Analyst,Logistics,3,20.47,42997,FT,2100,13,11,39,Male,0
+11639,Analyst,IT,3,44.86,93316,FT,2080,16,6,41,Male,1
+11640,Clerk,Finance,1,24.99,51982,FT,2080,16,16,39,Female,0
+11663,Analyst,Sales & Marketing,3,49.53,103033,FT,2080,18,10,42,Male,1
+11670,Operator,Operations,1,19.27,40086,FT,2080,17,17,36,Female,0
+11678,Clerk,IT,1,18.66,38822,FT,2080,3,2,31,Male,1
+11687,Analyst,Sales & Marketing,3,34.54,71845,FT,2080,9,5,32,Female,0
+11704,Assembler,Operations,1,21.7,26038,PT,1200,6,6,28,Male,1
+11746,Manager,Logistics,4,46.47,97586,FT,2100,9,1,32,Male,0
+11765,Manager,Operations,4,36.2,68786,FT,1900,30,13,52,Male,0
+11772,Manager,Finance,4,51.67,107467,FT,2080,25,16,53,Male,0
+11780,Clerk,Finance,1,31.67,65874,FT,2080,23,20,47,Female,0
+11795,Sales Rep,Sales & Marketing,3,52.74,109709,FT,2080,9,6,37,Male,0
+11811,Analyst,Operations,3,40.86,84988,FT,2080,14,13,42,Male,0
+11837,Clerk,Logistics,1,19.3,40525,FT,2100,0,1,22,Male,0
+11859,Engineer,Operations,3,58.95,122621,FT,2080,23,23,51,Male,0
+11876,Tech,Logistics,1,20.61,43280,FT,2100,0,1,26,Female,0
+11904,Assembler,Operations,1,21.61,44949,FT,2080,12,11,30,Female,1
+11910,Analyst,Sales & Marketing,3,45.25,94112,FT,2080,18,12,41,Female,0
+11945,Analyst,Sales & Marketing,3,37.85,78720,FT,2080,13,5,35,Female,1
+11952,Analyst,Logistics,3,22.05,46297,FT,2100,23,15,46,Female,0
+11970,Tech,IT,1,27.04,56247,FT,2080,11,1,40,Male,0
+12002,Sales Rep,Sales & Marketing,3,38.95,81015,FT,2080,2,1,28,Female,1
+12014,Operator,Operations,1,19.25,40032,FT,2080,15,13,38,Male,0
+12019,Analyst,IT,3,42.33,42325,PT,1000,12,10,39,Female,1
+12030,Accountant,Finance,3,40.65,84561,FT,2080,13,10,36,Female,0
+12103,Accountant,Finance,3,41.38,86070,FT,2080,5,4,30,Female,1
+12129,Operator,Operations,1,26.86,55877,FT,2080,19,19,40,Male,1
+12167,Analyst,Sales & Marketing,3,40.65,84557,FT,2080,8,3,32,Male,0
+12180,Tech,Operations,1,20.25,40496,FT,2000,10,10,36,Male,0
+12185,Director,IT,4,58.02,120687,FT,2080,4,1,26,Male,0
+12215,Tech,Logistics,1,18.23,38284,FT,2100,11,1,39,Female,0
+12226,Assembler,Operations,1,17.54,36475,FT,2080,11,10,35,Male,0
+12249,Clerk,IT,1,25.19,35265,PT,1400,18,16,41,Male,0
+12254,Operator,Operations,1,20.32,42270,FT,2080,9,6,33,Female,0
+12281,Sales Rep,Sales & Marketing,3,38.23,79519,FT,2080,15,8,36,Female,1
+12302,Manager,Logistics,4,44.32,93062,FT,2100,18,17,41,Female,0
+12315,Analyst,Finance,3,40.76,84771,FT,2080,2,1,29,Male,0
+12327,Analyst,IT,3,30.51,63456,FT,2080,7,4,30,Female,1
+12331,Manager,Operations,4,69.75,145083,FT,2080,15,1,43,Male,0
+12343,Clerk,IT,1,21.87,45489,FT,2080,2,1,24,Male,1
+12350,Analyst,IT,3,31.68,65884,FT,2080,4,3,29,Male,0
+12367,Operator,Operations,1,18,37440,FT,2080,5,4,24,Male,0
+12383,Clerk,IT,1,28.37,59014,FT,2080,1,0,25,Male,1
+12394,Sales Rep,Sales & Marketing,3,51.38,106880,FT,2080,12,10,36,Male,0
+12403,Clerk,IT,1,14.58,20418,PT,1400,1,1,28,Male,1
+12405,Clerk,IT,1,22.95,47740,FT,2080,2,2,24,Male,0
+12435,Operator,Operations,1,19.77,41115,FT,2080,11,7,36,Male,0
+12440,Analyst,Finance,3,44.85,93291,FT,2080,6,5,34,Female,1
+12463,Analyst,Sales & Marketing,3,35.92,74713,FT,2080,3,3,29,Female,0
+12491,Engineer,Operations,3,55.32,115073,FT,2080,6,1,28,Male,1
+12555,Assembler,Operations,1,18.21,37877,FT,2080,6,4,32,Female,1
+12559,Assembler,Operations,1,15.29,18351,PT,1200,8,6,29,Male,0
+12580,Coordinator,Logistics,3,22.75,47784,FT,2100,0,1,27,Female,0
+12595,Clerk,Logistics,1,21.54,45243,FT,2100,22,20,44,Female,0
+12621,Manager,Finance,4,52.58,109357,FT,2080,18,3,43,Male,0
+12641,Assembler,Operations,1,16.34,33979,FT,2080,9,7,29,Male,0
+12645,Analyst,IT,3,39.86,82899,FT,2080,1,1,29,Male,1
+12657,Manager,IT,4,39.48,75019,FT,1900,23,4,51,Female,0
+12671,Analyst,IT,3,37.18,37177,PT,1000,15,13,40,Female,0
+12673,Sales Rep,Sales & Marketing,3,41.11,85514,FT,2080,9,3,32,Male,0
+12676,Analyst,IT,3,39.82,23895,PT,600,6,6,28,Male,1
+12682,Sales Rep,Sales & Marketing,3,20.11,41829,FT,2080,12,1,39,Male,0
+12711,Analyst,Sales & Marketing,3,37.03,77031,FT,2080,11,10,33,Female,0
+12714,Analyst,Logistics,3,17.71,37194,FT,2100,0,0,24,Female,1
+12721,Analyst,Sales & Marketing,3,44.79,93154,FT,2080,19,4,42,Female,0
+12724,Clerk,IT,1,28.92,60162,FT,2080,16,16,37,Male,0
+12725,Assembler,Operations,1,21.19,25423,PT,1200,2,2,20,Male,1
+12738,Tech,IT,1,24.9,19920,PT,800,15,10,39,Female,0
+12744,Team Lead,Operations,2,27.5,57210,FT,2080,17,24,44,Female,0
+12768,Analyst,IT,3,33.22,69099,FT,2080,6,5,32,Male,1
+12773,Sales Rep,Sales & Marketing,3,48.75,101401,FT,2080,20,18,40,Female,0
+12781,Analyst,Operations,3,35.34,73517,FT,2080,1,1,23,Female,0
+12782,Sales Rep,Sales & Marketing,3,22.19,46163,FT,2080,20,18,45,Male,0
+12794,Operator,Operations,1,20.09,16072,PT,800,9,7,35,Male,0
+12802,Clerk,IT,1,27.71,57645,FT,2080,11,9,34,Male,0
+12851,Operator,Operations,1,20.16,24195,PT,1200,5,1,23,Male,0
+12863,Sales Rep,Sales & Marketing,3,47.14,98044,FT,2080,12,1,32,Male,0
+12900,Manager,Finance,4,55.91,116294,FT,2080,21,21,45,Female,0
+12909,Tech,Operations,1,17.1,34197,FT,2000,14,0,37,Male,1
+12920,Clerk,Finance,1,18.92,39357,FT,2080,22,18,42,Female,0
+12923,Operator,Operations,1,21.72,45170,FT,2080,13,13,32,Female,1
+12946,Team Lead,IT,2,30.26,62936,FT,2080,34,17,58,Female,0
+12988,Analyst,Operations,3,35.62,74093,FT,2080,1,1,26,Male,1
+12993,Manager,Finance,4,56.96,118467,FT,2080,3,1,28,Male,0
+13019,Sales Rep,Sales & Marketing,3,30.84,64157,FT,2080,12,1,35,Female,0
+13034,Operator,Operations,1,21.47,25764,PT,1200,2,3,21,Male,1
+13044,Manager,Finance,4,58.98,122681,FT,2080,10,6,38,Male,0
+13046,Team Lead,Operations,2,28.41,59087,FT,2080,28,9,47,Female,0
+13066,Sales Rep,Sales & Marketing,3,26.66,55457,FT,2080,8,1,28,Male,1
+13084,Assembler,Operations,1,21.95,45663,FT,2080,12,11,33,Male,0
+13092,Sales Rep,Sales & Marketing,3,46.27,96246,FT,2080,1,1,29,Male,1
+13095,Tech,Logistics,1,18.76,39388,FT,2100,2,1,27,Male,0
+13109,Assembler,Operations,1,15.14,31501,FT,2080,4,2,28,Female,1
+13125,Team Lead,IT,2,36.07,75035,FT,2080,29,15,55,Male,0
+13135,Sales Rep,Sales & Marketing,3,63.48,132032,FT,2080,2,1,22,Female,0
+13181,Tech,IT,1,21.55,44823,FT,2080,4,1,25,Male,0
+13201,Tech,IT,1,18.78,39055,FT,2080,5,1,28,Male,0
+13217,Tech,IT,1,22.89,47606,FT,2080,10,8,33,Male,0
+13227,Team Lead,IT,2,31.04,64556,FT,2080,25,5,48,Male,1
+13239,Sales Rep,Sales & Marketing,3,32.16,66901,FT,2080,6,2,30,Male,0
+13258,Operator,Operations,1,22.68,47178,FT,2080,6,3,25,Female,0
+13295,Operator,Operations,1,23.18,48220,FT,2080,11,7,31,Male,1
+13311,Sales Rep,Sales & Marketing,3,25.24,52501,FT,2080,11,1,37,Female,1
+13317,Clerk,Logistics,1,18.44,38719,FT,2100,10,8,36,Male,0
+13397,Coordinator,Logistics,3,27.57,57897,FT,2100,18,10,41,Female,0
+13411,Sales Rep,Sales & Marketing,3,54.01,112349,FT,2080,21,6,45,Female,0
+13418,Analyst,IT,3,44.01,91551,FT,2080,15,12,39,Male,0
+13419,Manager,Operations,4,38.82,73750,FT,1900,29,11,55,Male,0
+13424,Engineer,Operations,3,45,93610,FT,2080,7,1,29,Female,0
+13449,Operator,Operations,1,21.15,44002,FT,2080,6,2,30,Female,0
+13459,Operator,Operations,1,23.9,49709,FT,2080,10,6,30,Male,0
+13471,Analyst,IT,3,40.02,83236,FT,2080,14,13,41,Male,1
+13490,Clerk,Operations,1,16.08,30547,FT,1900,2,2,30,Female,0
+13492,Analyst,Logistics,3,22.65,31708,PT,1400,17,15,44,Male,0
+13493,Assembler,Operations,1,17.06,35481,FT,2080,5,3,26,Male,0
+13495,Sales Rep,Sales & Marketing,3,44.76,93105,FT,2080,8,1,28,Male,0
+13535,Clerk,Logistics,1,20.66,43381,FT,2100,1,1,26,Female,0
+13548,Analyst,Finance,3,41.68,86686,FT,2080,15,12,42,Female,0
+13562,Analyst,Operations,3,41.1,85482,FT,2080,7,5,31,Male,0
+13593,Clerk,Finance,1,19.35,27093,PT,1400,2,2,27,Female,0
+13605,Clerk,Finance,1,26.74,37431,PT,1400,15,13,35,Male,0
+13629,Clerk,Finance,1,23.75,33247,PT,1400,14,13,35,Female,0
+13633,Analyst,Logistics,3,19.51,40968,FT,2100,11,0,35,Female,0
+13638,Analyst,Sales & Marketing,3,36.83,76605,FT,2080,0,0,25,Male,1
+13640,Analyst,Finance,3,43.09,89625,FT,2080,15,15,40,Male,0
+13644,Analyst,Logistics,3,20.88,43852,FT,2100,13,13,37,Male,0
+13656,Clerk,Finance,1,25.85,36191,PT,1400,14,8,34,Female,0
+13659,Tech,IT,1,20.75,43151,FT,2080,1,1,21,Female,0
+13662,Analyst,IT,3,34.2,34195,PT,1000,11,9,34,Female,0
+13684,Engineer,Operations,3,48.89,101689,FT,2080,7,1,32,Male,0
+13723,Sales Rep,Sales & Marketing,3,62.96,130959,FT,2080,11,0,36,Female,1
+13730,Operator,Operations,1,19.38,40320,FT,2080,6,6,30,Male,1
+13756,Assembler,Operations,1,17.33,36039,FT,2080,2,0,20,Female,1
+13760,Coordinator,Logistics,3,24.25,50930,FT,2100,2,1,25,Male,0
+13769,Manager,Logistics,4,39.62,83198,FT,2100,9,1,37,Male,0
+13772,Clerk,Operations,1,17.2,32685,FT,1900,4,4,25,Male,0
+13788,Clerk,IT,1,27.3,56779,FT,2080,13,13,34,Female,0
+13793,Operator,Operations,1,24.25,38797,PT,1600,21,18,47,Male,0
+13824,Analyst,Sales & Marketing,3,32.34,67269,FT,2080,2,1,25,Female,0
+13838,Manager,Logistics,4,34.31,72054,FT,2100,9,1,37,Male,1
+13857,Clerk,IT,1,19.53,40618,FT,2080,2,0,27,Female,0
+13862,Clerk,IT,1,27.56,57317,FT,2080,10,9,33,Female,0
+13875,Analyst,Sales & Marketing,3,32.91,68451,FT,2080,1,1,25,Female,1
+13878,Clerk,IT,1,22.65,47102,FT,2080,0,1,27,Female,0
+13888,Manager,Sales & Marketing,4,53.56,111415,FT,2080,1,1,25,Male,0
+13913,Tech,IT,1,20.1,16082,PT,800,9,1,36,Male,1
+13925,Coordinator,Logistics,3,22.16,46528,FT,2100,4,15,26,Female,0
+13956,Analyst,IT,3,48.24,28942,PT,600,9,6,33,Male,0
+13980,Analyst,Sales & Marketing,3,31.89,66341,FT,2080,1,1,26,Male,0
+14006,Clerk,Finance,1,19.81,27728,PT,1400,1,1,21,Female,0
+14015,Tech,IT,1,16.82,34983,FT,2080,3,1,24,Female,1
+14022,Analyst,Sales & Marketing,3,44.07,91665,FT,2080,14,2,37,Female,0
+14037,Engineer,Operations,3,49.18,102294,FT,2080,15,6,42,Female,0
+14050,Coordinator,Logistics,3,33.68,70719,FT,2100,13,13,37,Male,0
+14051,Sales Rep,Sales & Marketing,3,57.35,119283,FT,2080,19,6,44,Male,0
+14072,Assembler,Operations,1,15.53,32297,FT,2080,2,0,25,Male,0
+14074,Director,Finance,4,78.25,162762,FT,2080,19,12,43,Male,0
+14096,Coordinator,Logistics,3,29.47,61893,FT,2100,17,17,41,Male,1
+14110,Clerk,Operations,1,17.79,33810,FT,1900,9,9,30,Female,0
+14118,Sales Rep,Sales & Marketing,3,57.85,120335,FT,2080,23,13,49,Male,0
+14126,Coordinator,Logistics,3,23.77,33272,FT,1400,17,15,41,Male,0
+14149,Operator,Operations,1,24.85,51682,FT,2080,13,13,39,Male,0
+14203,Clerk,IT,1,22.81,47444,FT,2080,2,2,30,Male,1
+14233,Clerk,IT,1,14.15,19815,PT,1400,1,0,24,Male,1
+14252,Clerk,Operations,1,17.39,13911,PT,800,0,1,22,Male,0
+14253,Analyst,Logistics,3,17.93,37648,FT,2100,9,2,33,Male,1
+14282,Manager,Finance,4,60.43,125700,FT,2080,3,3,27,Male,0
+14301,Tech,Operations,1,20.68,41366,FT,2000,11,7,36,Male,1
+14304,Analyst,Sales & Marketing,3,37.33,77644,FT,2080,10,8,38,Female,0
+14309,Director,Sales & Marketing,4,70.23,146085,FT,2080,26,6,49,Female,0
+14319,Clerk,IT,1,29.55,61455,FT,2080,15,14,43,Female,0
+14325,Operator,Operations,1,19.5,40558,FT,2080,8,8,26,Male,0
+14351,Analyst,IT,3,43.96,91440,FT,2080,13,11,35,Female,0
+14367,Assembler,Operations,1,16.22,33738,FT,2080,6,5,26,Male,0
+14426,Sales Rep,Sales & Marketing,3,59.21,123163,FT,2080,26,15,54,Female,0
+14440,Sales Rep,Sales & Marketing,3,21.08,43853,FT,2080,4,1,32,Male,0
+14464,Tech,IT,1,25.62,53292,FT,2080,6,1,28,Female,0
+14500,Clerk,IT,1,31.98,66510,FT,2080,11,10,33,Male,0
+14502,Operator,Operations,1,22.97,18378,PT,800,9,6,29,Male,1
+14594,Sales Rep,Sales & Marketing,3,22.93,47698,FT,2080,15,14,35,Female,0
+14619,Sales Rep,Sales & Marketing,3,50.78,105629,FT,2080,24,10,52,Female,0
+14633,Analyst,IT,3,30.39,63212,FT,2080,8,4,34,Male,1
+14642,Analyst,IT,3,38.74,23245,PT,600,5,1,32,Male,0
+14647,Operator,Operations,1,20.56,42755,FT,2080,16,12,36,Male,0
+14690,Analyst,Logistics,3,20.46,42973,FT,2100,13,11,40,Male,0
+14691,Manager,Sales & Marketing,4,47.04,97838,FT,2080,21,12,47,Female,0
+14707,Accountant,Finance,3,45.95,95572,FT,2080,12,10,36,Female,1
+14743,Clerk,Operations,1,18.89,35894,FT,1900,1,1,21,Male,1
+14760,Sales Rep,Sales & Marketing,3,56.47,117463,FT,2080,17,15,41,Female,1
+14777,Accountant,Finance,3,43.07,89594,FT,2080,13,13,35,Female,0
+14783,Tech,IT,1,15.3,31821,FT,2080,4,1,27,Male,1
+14788,Operator,Operations,1,25.07,52138,FT,2080,21,20,44,Male,0
+14793,Engineer,Operations,3,57.01,118588,FT,2080,21,18,43,Male,0
+14795,Clerk,Logistics,1,17.71,37194,FT,2100,5,4,31,Male,0
+14807,Assembler,Operations,1,15.53,32297,FT,2080,5,5,24,Male,1
+14815,Manager,Logistics,4,47.55,99855,FT,2100,22,15,49,Female,0
+14832,Clerk,Logistics,1,20.42,42886,FT,2100,15,13,38,Female,0
+14833,Clerk,Finance,1,19.56,27389,PT,1400,19,17,41,Female,0
+14835,Clerk,Logistics,1,16.63,34930,FT,2100,6,4,30,Female,0
+14837,Sales Rep,Sales & Marketing,3,23.78,49471,FT,2080,21,13,47,Male,0
+14838,Sales Rep,Sales & Marketing,3,39.04,81195,FT,2080,22,6,50,Male,0
+14844,Coordinator,Logistics,3,25.55,53663,FT,2100,13,11,35,Male,0
+14876,Analyst,Operations,3,39.45,82053,FT,2080,7,7,29,Female,0
+14915,Accountant,Finance,3,37.81,78636,FT,2080,7,7,38,Female,1
+14929,Director,IT,4,69.58,144732,FT,2080,7,4,30,Male,0
+14943,Tech,Logistics,1,19.8,41586,FT,2100,18,13,40,Female,0
+14944,Engineer,Operations,3,57.88,120391,FT,2080,23,6,49,Male,0
+14959,Clerk,Operations,1,15.6,12482,PT,800,7,3,30,Male,1
+14972,Accountant,Finance,3,42.91,89245,FT,2080,3,0,31,Male,0
+14989,Manager,IT,4,50.38,104782,FT,2080,21,16,45,Male,0
+14998,Tech,IT,1,31,64478,FT,2080,18,5,44,Male,0
+15001,Clerk,IT,1,29.04,60397,FT,2080,10,9,35,Male,0
+15005,Manager,IT,4,56.44,117391,FT,2080,20,8,44,Male,0
+15028,Operator,Operations,1,21.9,45553,FT,2080,13,13,33,Female,0
+15045,Manager,Operations,4,66.54,138402,FT,2080,10,1,38,Male,0
+15066,Director,Operations,4,80.76,167976,FT,2080,25,17,49,Male,0
+15069,Engineer,Operations,3,49.23,102398,FT,2080,15,0,40,Female,1
+15082,Clerk,IT,1,19.58,27406,PT,1400,0,1,20,Male,0
+15086,Analyst,Operations,3,43.15,89745,FT,2080,2,2,26,Male,1
+15088,Sales Rep,Sales & Marketing,3,61.09,127074,FT,2080,16,9,42,Male,0
+15144,Operator,Operations,1,21.77,45282,FT,2080,18,17,38,Male,0
+15145,Clerk,IT,1,27.93,39099,PT,1400,15,14,36,Male,1
+15209,Analyst,Finance,3,47.78,99384,FT,2080,8,7,30,Male,0
+15210,Sales Rep,Sales & Marketing,3,33.32,69298,FT,2080,11,1,39,Female,0
+15213,Clerk,Finance,1,29.85,62087,FT,2080,12,7,40,Male,0
+15230,Sales Rep,Sales & Marketing,3,21.53,44773,FT,2080,1,1,26,Female,1
+15233,Clerk,Logistics,1,28.18,59174,FT,2100,19,16,44,Female,0
+15235,Analyst,Sales & Marketing,3,45.22,94064,FT,2080,19,16,41,Female,0
+15237,Sales Rep,Sales & Marketing,3,32.87,68379,FT,2080,11,1,39,Female,0
+15244,Operator,Operations,1,21.23,44149,FT,2080,7,6,27,Male,0
+15267,Analyst,Logistics,3,22.86,48005,FT,2100,18,15,44,Female,0
+15298,Sales Rep,Sales & Marketing,3,45.14,93890,FT,2080,12,12,36,Male,0
+15309,Assembler,Operations,1,15.3,18356,PT,1200,4,2,26,Male,0
+15318,Sales Rep,Sales & Marketing,3,22.97,47782,FT,2080,1,1,29,Female,1
+15322,Engineer,Operations,3,54.54,113453,FT,2080,15,7,38,Male,1
+15339,Analyst,Sales & Marketing,3,40.14,83499,FT,2080,12,7,38,Female,0
+15374,Sales Rep,Sales & Marketing,3,55.37,115178,FT,2080,23,22,51,Male,0
+15380,Sales Rep,Sales & Marketing,3,32.12,66807,FT,2080,15,11,39,Female,0
+15382,Clerk,IT,1,27.73,57680,FT,2080,17,17,44,Female,0
+15395,Engineer,Operations,3,42.25,87880,FT,2080,1,1,26,Female,1
+15407,Engineer,Operations,3,55.28,114974,FT,2080,10,4,34,Male,0
+15413,Analyst,Sales & Marketing,3,47.1,97961,FT,2080,10,2,33,Male,0
+15419,Operator,Operations,1,18.44,38363,FT,2080,8,7,28,Female,0
+15424,Sales Rep,Sales & Marketing,3,40.57,84384,FT,2080,24,20,50,Female,0
+15443,Analyst,Sales & Marketing,3,47.75,99311,FT,2080,13,10,37,Male,0
+15444,Analyst,Operations,3,35.08,72956,FT,2080,4,4,29,Female,1
+15463,Manager,Finance,4,53.8,111910,FT,2080,3,1,30,Male,0
+15466,Operator,Operations,1,18.45,38376,FT,2080,13,10,36,Female,0
+15533,Analyst,Operations,3,46.24,96176,FT,2080,14,14,38,Male,0
+15566,Engineer,Operations,3,47.43,98655,FT,2080,6,1,29,Male,0
+15583,Clerk,Finance,1,31.59,44222,PT,1400,21,15,41,Male,0
+15594,Analyst,Sales & Marketing,3,32.15,66866,FT,2080,2,1,28,Female,0
+15601,Operator,Operations,1,23.63,49159,FT,2080,11,7,29,Male,0
+15607,Manager,Finance,4,52.51,109224,FT,2080,12,12,34,Male,0
+15611,Sales Rep,Sales & Marketing,3,50.55,105134,FT,2080,25,25,47,Female,1
+15620,Team Lead,Operations,2,23,47840,FT,2080,16,5,40,Male,1
+15655,Operator,Operations,1,20.19,42002,FT,2080,11,11,32,Male,0
+15661,Sales Rep,Sales & Marketing,3,44.93,93463,FT,2080,21,1,43,Female,1
+15666,Clerk,Logistics,1,28.15,59121,FT,2100,17,16,41,Male,0
+15706,Clerk,IT,1,19.5,40561,FT,2080,3,1,29,Female,0
+15734,Operator,Operations,1,20.74,16590,PT,800,19,17,37,Male,0
+15735,Tech,Operations,1,17.55,14039,PT,800,2,1,24,Male,0
+15737,Analyst,Sales & Marketing,3,40.22,83664,FT,2080,17,9,42,Male,0
+15765,Operator,Operations,1,24.82,51635,FT,2080,20,20,40,Male,0
+15775,Operator,Operations,1,20.19,24231,PT,1200,19,17,44,Male,1
+15794,Clerk,Finance,1,20.47,42579,FT,2080,16,10,36,Male,0
+15817,Coordinator,Logistics,3,33.72,70811,FT,2100,9,1,33,Male,0
+15821,Operator,Operations,1,22.67,47149,FT,2080,12,9,34,Female,0
+15842,Clerk,Finance,1,22.95,47729,FT,2080,20,17,43,Female,0
+15856,Assembler,Operations,1,22.52,46849,FT,2080,24,24,42,Male,0
+15859,Manager,IT,4,55.47,115384,FT,2080,15,6,41,Male,0
+15861,Sales Rep,Sales & Marketing,3,44.57,92715,FT,2080,12,1,36,Male,1
+15872,Operator,Operations,1,22.29,26743,PT,1200,11,5,35,Male,0
+15896,Team Lead,Operations,2,28.09,58422,FT,2080,17,15,41,Male,0
+15912,Manager,IT,4,48.25,100360,FT,2080,16,1,43,Female,0
+15925,Clerk,Logistics,1,18.43,38694,FT,2100,2,0,23,Female,1
+15932,Team Lead,Operations,2,27.86,57953,FT,2080,34,22,60,Male,0
+15934,Tech,IT,1,21.72,45168,FT,2080,7,1,29,Male,0
+15937,Operator,Operations,1,24.22,50387,FT,2080,10,9,31,Female,0
+15946,Clerk,IT,1,27.6,57410,FT,2080,15,14,42,Male,0
+15965,Manager,Sales & Marketing,4,54.32,112995,FT,2080,9,1,33,Male,0
+15966,Clerk,IT,1,21.01,43698,FT,2080,5,5,33,Female,0
+15968,Operator,Operations,1,22.64,18115,PT,800,14,12,32,Male,1
+15996,Operator,Operations,1,21.73,34774,PT,1600,18,17,41,Male,0
+15999,Analyst,IT,3,31.68,65896,FT,2080,2,2,30,Male,0
+16002,Sales Rep,Sales & Marketing,3,27.96,58163,FT,2080,5,0,32,Female,0
+16011,Analyst,Sales & Marketing,3,34.63,72030,FT,2080,4,2,31,Female,0
+16022,Manager,Finance,4,58.14,120936,FT,2080,10,3,35,Male,1
+16044,Accountant,Finance,3,49.23,102398,FT,2080,25,24,47,Male,0
+16093,Engineer,Operations,3,53.39,111051,FT,2080,6,1,29,Male,0
+16123,Team Lead,IT,2,28.87,60051,FT,2080,17,4,41,Male,0
+16128,Clerk,IT,1,19.87,41319,FT,2080,5,4,25,Female,1
+16178,Sales Rep,Sales & Marketing,3,41.22,85733,FT,2080,18,17,46,Male,0
+16204,Sales Rep,Sales & Marketing,3,23.9,49719,FT,2080,1,1,26,Male,1
+16217,Clerk,Logistics,1,22.28,46782,FT,2100,11,8,37,Female,1
+16257,Coordinator,Logistics,3,32.07,67353,FT,2100,11,0,38,Male,1
+16265,Analyst,IT,3,28.18,22547,PT,800,1,1,25,Male,0
+16273,Team Lead,IT,2,40.69,32550,PT,800,22,10,42,Female,0
+16286,Analyst,Finance,3,45.31,94245,FT,2080,18,4,45,Female,0
+16290,Tech,Operations,1,18.32,14655,PT,800,4,1,32,Male,0
+16315,Manager,Logistics,4,33.18,69683,FT,2100,18,15,45,Female,0
+16343,Assembler,Operations,1,21.34,44387,FT,2080,8,8,29,Male,0
+16345,Tech,IT,1,30.42,63277,FT,2080,10,3,30,Male,0
+16367,Engineer,Operations,3,58.46,121603,FT,2080,16,14,42,Male,1
+16400,Tech,IT,1,19.58,40733,FT,2080,10,10,35,Female,0
+16402,Analyst,Sales & Marketing,3,45.99,95661,FT,2080,18,0,41,Female,1
+16407,Coordinator,Logistics,3,26.02,54650,FT,2100,13,11,36,Male,0
+16421,Clerk,IT,1,27.64,57492,FT,2080,18,18,44,Female,0
+16454,Team Lead,IT,2,28.38,22707,PT,800,34,14,57,Male,0
+16490,Analyst,Sales & Marketing,3,38.67,80441,FT,2080,15,13,42,Male,0
+16500,Operator,Operations,1,22.88,47600,FT,2080,7,3,28,Male,1
+16508,Manager,Operations,4,40.54,77030,FT,1900,35,23,58,Male,0
+16530,Clerk,Logistics,1,31.13,65376,FT,2100,19,16,39,Female,0
+16539,Manager,Finance,4,59.42,123593,FT,2080,15,10,43,Female,0
+16559,Analyst,IT,3,45.66,94973,FT,2080,15,11,42,Male,1
+16597,Tech,Operations,1,18.74,37488,FT,2000,2,1,28,Female,0
+16598,Manager,IT,4,31.05,59000,FT,1900,23,4,48,Female,0
+16614,Analyst,IT,3,43.53,90545,FT,2080,13,10,39,Female,0
+16627,Coordinator,Logistics,3,24.38,51198,FT,2100,9,2,33,Male,0
+16643,Manager,Sales & Marketing,4,53.14,110530,FT,2080,19,16,45,Male,0
+16645,Manager,Operations,4,60,124800,FT,2080,10,1,35,Female,0
+16676,Analyst,Logistics,3,20.64,43341,FT,2100,0,0,25,Female,0
+16705,Analyst,Sales & Marketing,3,35.43,73700,FT,2080,11,11,33,Male,0
+16736,Analyst,Logistics,3,17.14,36003,FT,2100,9,6,34,Male,0
+16741,Analyst,Finance,3,47.3,98393,FT,2080,15,12,39,Male,0
+16794,Clerk,Logistics,1,17,35710,FT,2100,13,11,40,Male,0
+16811,Sales Rep,Sales & Marketing,3,30.4,63228,FT,2080,17,15,44,Male,1
+16816,Clerk,Finance,1,32.3,67176,FT,2080,15,15,43,Female,0
+16819,Manager,Sales & Marketing,4,45.11,93834,FT,2080,4,1,31,Male,0
+16849,Sales Rep,Sales & Marketing,3,30.53,63510,FT,2080,26,22,54,Male,0
+16853,Clerk,Operations,1,16.46,31282,FT,1900,3,0,30,Male,0
+16854,Clerk,IT,1,20.4,42430,FT,2080,0,0,24,Female,0
+16883,Sales Rep,Sales & Marketing,3,47.64,99088,FT,2080,4,1,27,Female,1
+16891,Analyst,Logistics,3,22.4,31353,PT,1400,17,15,44,Male,1
+16892,Sales Rep,Sales & Marketing,3,26.31,54718,FT,2080,16,4,39,Male,0
+16894,Tech,IT,1,18.78,39054,FT,2080,12,8,36,Male,1
+16925,Analyst,Logistics,3,30.73,64541,FT,2100,17,17,42,Male,1
+16942,Tech,IT,1,20.99,16792,PT,800,8,0,34,Male,0
+16967,Clerk,IT,1,25.9,53862,FT,2080,4,2,32,Female,0
+16985,Sales Rep,Sales & Marketing,3,26.3,54697,FT,2080,20,12,48,Female,0
+17013,Assembler,Operations,1,17.01,35380,FT,2080,5,5,23,Male,0
+17108,Sales Rep,Sales & Marketing,3,48.5,100886,FT,2080,17,17,41,Female,0
+17116,Tech,IT,1,16.31,33916,FT,2080,5,1,32,Female,0
+17123,Sales Rep,Sales & Marketing,3,64.27,133671,FT,2080,16,1,42,Female,1
+17138,Operator,Operations,1,22.8,47431,FT,2080,8,5,28,Male,0
+17155,Clerk,IT,1,30.95,64381,FT,2080,15,15,39,Female,0
+17161,Manager,Sales & Marketing,4,54.4,113147,FT,2080,14,9,37,Male,0
+17164,Tech,IT,1,16.04,33373,FT,2080,4,1,27,Female,1
+17170,Tech,Operations,1,16.97,33932,FT,2000,10,1,38,Male,0
+17171,Manager,Sales & Marketing,4,58.42,121522,FT,2080,12,9,39,Female,0
+17185,Coordinator,Logistics,3,25.27,53070,FT,2100,11,3,35,Female,1
+17224,Tech,IT,1,28,58248,FT,2080,7,1,30,Male,0
+17237,Engineer,Operations,3,55.16,114730,FT,2080,23,3,48,Male,1
+17238,Assembler,Operations,1,21.89,45541,FT,2080,12,11,33,Male,0
+17239,Coordinator,Logistics,3,22.66,47581,FT,2100,0,1,24,Female,0
+17269,Analyst,Sales & Marketing,3,41.9,87161,FT,2080,13,2,41,Female,0
+17274,Analyst,Sales & Marketing,3,35.48,73791,FT,2080,4,3,29,Female,0
+17282,Clerk,IT,1,29.11,60544,FT,2080,13,12,35,Male,1
+17288,Team Lead,IT,2,31.98,66518,FT,2080,30,17,52,Male,0
+17299,Tech,IT,1,27.65,57515,FT,2080,15,7,38,Male,0
+17313,Sales Rep,Sales & Marketing,3,51.07,106226,FT,2080,12,1,33,Female,1
+17320,Analyst,IT,3,43.71,90920,FT,2080,9,8,33,Male,0
+17321,Clerk,Logistics,1,28.14,59084,FT,2100,11,9,39,Female,1
+17327,Assembler,Operations,1,16.19,33682,FT,2080,17,16,37,Male,0
+17337,Analyst,IT,3,43,89443,FT,2080,9,7,31,Male,0
+17392,Tech,IT,1,22.03,45822,FT,2080,8,1,30,Male,0
+17395,Manager,Logistics,4,40.19,84404,FT,2100,18,15,46,Female,0
+17437,Operator,Operations,1,20.94,25127,PT,1200,8,6,33,Male,0
+17457,Team Lead,IT,2,41.48,86268,FT,2080,16,4,39,Male,0
+17460,Operator,Operations,1,23.21,48284,FT,2080,11,10,31,Female,1
+17497,Analyst,Logistics,3,19.97,41929,FT,2100,9,0,32,Female,1
+17515,Clerk,IT,1,25.1,52216,FT,2080,10,8,30,Female,0
+17527,Analyst,Sales & Marketing,3,44.37,92286,FT,2080,17,0,40,Female,0
+17570,Clerk,Finance,1,32.13,66820,FT,2080,19,13,42,Male,0
+17572,Analyst,IT,3,45.88,95430,FT,2080,13,12,37,Female,0
+17585,Manager,IT,4,31.72,60275,FT,1900,11,4,47,Male,1
+17612,Operator,Operations,1,23.33,48517,FT,2080,19,15,44,Male,1
+17624,Analyst,Finance,3,40.53,84295,FT,2080,9,5,36,Female,0
+17644,Sales Rep,Sales & Marketing,3,49.61,103199,FT,2080,19,4,43,Male,0
+17649,Sales Rep,Sales & Marketing,3,65.38,135992,FT,2080,19,11,45,Female,0
+17660,Analyst,IT,3,45.92,95506,FT,2080,18,16,42,Male,0
+17695,Analyst,Sales & Marketing,3,37.17,77316,FT,2080,16,5,38,Male,0
+17697,Sales Rep,Sales & Marketing,3,62.3,129593,FT,2080,26,9,46,Male,1
+17717,Coordinator,Logistics,3,22.57,47407,FT,2100,2,1,25,Male,0
+17722,Analyst,Sales & Marketing,3,44.54,92652,FT,2080,18,17,43,Male,0
+17743,Tech,IT,1,27.04,56242,FT,2080,17,15,38,Female,0
+17751,Assembler,Operations,1,21.62,44978,FT,2080,7,6,26,Male,1
+17762,Analyst,IT,3,34.14,71009,FT,2080,12,8,39,Female,0
+17769,Analyst,Finance,3,40.22,83658,FT,2080,11,10,37,Female,0
+17815,Analyst,Logistics,3,19.66,41286,FT,2100,11,5,35,Female,0
+17881,Clerk,Finance,1,27.08,56329,FT,2080,19,13,40,Female,0
+17886,Clerk,Logistics,1,20.96,44010,FT,2100,3,0,23,Female,0
+17899,Analyst,Sales & Marketing,3,30.63,63717,FT,2080,4,4,30,Female,0
+17907,Analyst,Sales & Marketing,3,39.74,82659,FT,2080,7,2,35,Female,1
+17920,Team Lead,Operations,2,27.94,58120,FT,2080,24,11,50,Male,0
+17922,Engineer,Operations,3,45.69,95042,FT,2080,9,1,36,Female,0
+17939,Analyst,Sales & Marketing,3,41.07,85431,FT,2080,10,7,36,Female,1
+17962,Analyst,IT,3,44.72,93020,FT,2080,10,8,37,Male,0
+17972,Clerk,Operations,1,18.85,35807,FT,1900,9,5,33,Male,1
+17979,Analyst,Sales & Marketing,3,31.92,66398,FT,2080,5,1,31,Female,0
+17981,Analyst,Sales & Marketing,3,45.98,95643,FT,2080,11,8,33,Male,0
+17987,Sales Rep,Sales & Marketing,3,56.94,118441,FT,2080,11,11,38,Male,0
+18011,Analyst,Sales & Marketing,3,47.8,99429,FT,2080,12,5,37,Female,0
+18084,Tech,Operations,1,17.59,35174,FT,2000,4,1,24,Male,1
+18089,Sales Rep,Sales & Marketing,3,55.74,115946,FT,2080,7,1,35,Male,0
+18103,Engineer,Operations,3,47.44,98670,FT,2080,11,4,36,Female,1
+18123,Operator,Operations,1,19.2,39937,FT,2080,5,5,23,Male,0
+18145,Clerk,IT,1,25.43,52888,FT,2080,9,8,34,Female,1
+18159,Sales Rep,Sales & Marketing,3,54.71,113800,FT,2080,4,3,29,Female,0
+18174,Manager,Logistics,4,45.95,96490,FT,2100,9,1,35,Male,0
+18184,Assembler,Operations,1,21.25,25505,PT,1200,10,8,32,Male,0
+18196,Assembler,Operations,1,16.76,34866,FT,2080,7,5,25,Male,1
+18258,Analyst,Finance,3,45.92,95517,FT,2080,9,3,30,Female,0
+18264,Assembler,Operations,1,17,35360,FT,2080,5,4,28,Female,0
+18270,Clerk,IT,1,30.1,62613,FT,2080,16,16,41,Female,0
+18278,Clerk,Finance,1,19.61,40782,FT,2080,15,14,35,Female,1
+18327,Clerk,Finance,1,19.06,39644,FT,2080,12,8,33,Male,0
+18350,Clerk,IT,1,30.93,64324,FT,2080,16,15,39,Male,0
+18357,Accountant,Finance,3,33.03,68694,FT,2080,1,1,27,Female,0
+18359,Analyst,IT,3,35.15,73114,FT,2080,7,4,32,Male,1
+18360,Tech,IT,1,29.49,61329,FT,2080,9,1,32,Male,0
+18383,Clerk,Finance,1,22.17,46119,FT,2080,16,14,39,Male,0
+18415,Operator,Operations,1,23.01,47860,FT,2080,14,14,36,Male,0
+18420,Analyst,Sales & Marketing,3,43.17,89800,FT,2080,7,5,31,Female,0
+18427,Coordinator,Logistics,3,32.5,68253,FT,2100,2,1,26,Male,1
+18439,Analyst,Operations,3,39.69,82565,FT,2080,7,3,35,Female,0
+18451,Clerk,Logistics,1,18.64,39153,FT,2100,17,17,42,Male,0
+18454,Analyst,Sales & Marketing,3,38.01,79070,FT,2080,9,6,33,Male,0
+18468,Tech,IT,1,29,60327,FT,2080,16,12,40,Male,0
+18474,Manager,Sales & Marketing,4,50.91,105896,FT,2080,1,1,25,Female,0
+18492,Manager,Finance,4,55.93,116328,FT,2080,19,8,41,Male,0
+18515,Clerk,Finance,1,24.79,51568,FT,2080,19,19,45,Male,0
+18541,Operator,Operations,1,18.23,29166,PT,1600,4,20,24,Male,1
+18552,Sales Rep,Sales & Marketing,3,44.36,92268,FT,2080,24,8,48,Female,1
+18558,Analyst,Finance,3,54.02,112356,FT,2080,21,5,46,Male,0
+18568,Coordinator,Logistics,3,27.01,56719,FT,2100,3,15,31,Female,0
+18595,Sales Rep,Sales & Marketing,3,29.86,62107,FT,2080,7,1,27,Female,0
+18602,Tech,Operations,1,20.53,41062,FT,2000,13,1,34,Male,0
+18607,Manager,Finance,4,52.2,108583,FT,2080,13,8,35,Male,0
+18617,Clerk,IT,1,18.91,39343,FT,2080,2,1,28,Male,0
+18655,Operator,Operations,1,21.47,44665,FT,2080,11,11,36,Male,0
+18661,Sales Rep,Sales & Marketing,3,64.48,134121,FT,2080,26,7,52,Male,1
+18670,Assembler,Operations,1,16.89,35134,FT,2080,1,0,20,Male,0
+18674,Manager,Finance,4,55.33,115085,FT,2080,10,4,37,Male,0
+18692,Sales Rep,Sales & Marketing,3,59.89,124575,FT,2080,17,1,43,Male,0
+18694,Operator,Operations,1,19.23,40005,FT,2080,7,6,30,Male,0
+18695,Analyst,Sales & Marketing,3,34.67,72110,FT,2080,4,3,30,Female,1
+18726,Manager,Finance,4,54.34,113021,FT,2080,21,7,47,Female,0
+18756,Coordinator,Logistics,3,28.06,58922,FT,2100,18,10,41,Female,0
+18775,Clerk,IT,1,26.32,54750,FT,2080,16,16,42,Female,0
+18800,Manager,Finance,4,61,126879,FT,2080,11,4,33,Male,0
+18805,Manager,IT,4,62.19,129345,FT,2080,23,12,49,Male,0
+18829,Analyst,IT,3,28.46,59192,FT,2080,2,1,24,Male,0
+18854,Sales Rep,Sales & Marketing,3,59.47,123706,FT,2080,2,1,25,Male,0
+18856,Clerk,IT,1,20.86,43387,FT,2080,4,3,24,Male,1
+18861,Analyst,Sales & Marketing,3,34.42,71594,FT,2080,6,2,31,Female,0
+18868,Assembler,Operations,1,19.3,7718,PT,400,4,4,30,Male,1
+18874,Clerk,Finance,1,18.04,25260,PT,1400,15,12,38,Male,0
+18879,Operator,Operations,1,22.25,46275,FT,2080,9,5,34,Male,0
+18931,Operator,Operations,1,28.17,58597,FT,2080,20,18,45,Female,1
+18946,Operator,Operations,1,21.01,43691,FT,2080,3,1,26,Male,0
+18954,Sales Rep,Sales & Marketing,3,41.7,86733,FT,2080,3,1,26,Female,1
+18962,Clerk,Logistics,1,16.57,34801,FT,2100,6,6,26,Female,0
+18970,Clerk,Finance,1,24.32,50594,FT,2080,4,1,24,Female,1
+18982,Coordinator,Logistics,3,24.39,51213,FT,2100,0,1,26,Female,0
+18989,Operator,Operations,1,22.32,26789,PT,1200,13,11,36,Female,0
+19009,Operator,Operations,1,21.82,26179,PT,1200,5,5,27,Male,1
+19025,Manager,Sales & Marketing,4,42,87353,FT,2080,17,3,44,Male,1
+19028,Clerk,Logistics,1,17.4,36548,FT,2100,17,15,43,Male,0
+19033,Sales Rep,Sales & Marketing,3,50.46,104964,FT,2080,0,1,24,Male,0
+19049,Assembler,Operations,1,21.07,43835,FT,2080,7,6,26,Female,1
+19051,Clerk,Logistics,1,19.77,41514,FT,2100,2,1,27,Female,1
+19063,Analyst,IT,3,36.18,75248,FT,2080,3,15,26,Female,1
+19068,Analyst,IT,3,37.33,77646,FT,2080,13,11,39,Male,0
+19074,Manager,IT,4,55.47,115384,FT,1900,23,4,48,Male,0
+19083,Sales Rep,Sales & Marketing,3,49.15,102227,FT,2080,5,5,30,Male,1
+19103,Sales Rep,Sales & Marketing,3,49.02,101955,FT,2080,5,1,32,Male,0
+19113,Clerk,Finance,1,22.6,31635,PT,1400,2,1,25,Female,0
+19117,Analyst,Finance,3,49.79,103554,FT,2080,14,10,38,Male,0
+19144,Sales Rep,Sales & Marketing,3,51.68,107492,FT,2080,22,8,50,Male,0
+19172,Team Lead,Operations,2,25.89,53841,FT,2080,30,11,52,Male,0
+19205,Sales Rep,Sales & Marketing,3,47.64,99089,FT,2080,16,1,42,Female,0
+19212,Sales Rep,Sales & Marketing,3,29.49,61345,FT,2080,8,1,32,Male,1
+19224,Manager,IT,4,31.39,59648,FT,1900,12,4,51,Female,1
+19280,Tech,IT,1,26.89,55940,FT,2080,14,1,38,Female,0
+29280,Tech,IT,1,29.49,61329,FT,2080,12,1,39,Female,0
+29281,Tech,IT,1,26.89,55940,FT,2080,8,1,33,Male,0
+19293,Sales Rep,Sales & Marketing,3,55.6,115652,FT,2080,1,1,29,Female,0
+19310,Clerk,Finance,1,23.36,32710,PT,1400,8,3,30,Female,0
+19318,Operator,Operations,1,21.61,44945,FT,2080,7,1,26,Male,0
+19327,Clerk,Finance,1,21.39,29943,PT,1400,4,1,28,Female,0
+19330,Director,Sales & Marketing,4,70.73,147129,FT,2080,10,2,37,Male,1
+19335,Operator,Operations,1,21.6,25916,PT,1200,7,4,26,Male,1
+19357,Tech,IT,1,15.34,12275,PT,800,2,1,23,Male,0
+19370,Sales Rep,Sales & Marketing,3,36.57,76058,FT,2080,1,1,26,Female,1
+19377,Sales Rep,Sales & Marketing,3,60.03,124861,FT,2080,16,15,42,Male,1
+19379,Clerk,Logistics,1,16.23,34089,FT,2100,17,15,41,Female,0
+19391,Clerk,IT,1,25.91,53884,FT,2080,4,2,31,Female,0
+19431,Clerk,Finance,1,21.61,30249,PT,1400,11,10,39,Female,0
+19437,Sales Rep,Sales & Marketing,3,61.33,127575,FT,2080,11,6,35,Female,0
+19462,Manager,Finance,4,53.45,111167,FT,2080,13,1,38,Male,1
+19463,Analyst,Finance,3,43.7,90890,FT,2080,14,13,39,Male,0
+19476,Analyst,Sales & Marketing,3,48.15,100151,FT,2080,23,22,46,Female,1
+19496,Clerk,IT,1,14.13,19777,PT,1400,14,12,35,Male,0
+19506,Analyst,Sales & Marketing,3,48.68,101264,FT,2080,21,2,44,Male,0
+19529,Analyst,Logistics,3,17.94,37666,FT,2100,2,1,27,Male,0
+19533,Analyst,IT,3,43.96,91428,FT,2080,5,2,29,Male,1
+19622,Clerk,IT,1,26.18,54456,FT,2080,1,1,24,Female,0
+19641,Accountant,Finance,3,43.69,90865,FT,2080,12,12,39,Male,0
+19642,Operator,Operations,1,23.52,48929,FT,2080,17,15,43,Male,0
+19689,Analyst,Logistics,3,17.39,36509,FT,2100,4,1,32,Male,1
+19733,Assembler,Operations,1,17.51,10505,PT,600,1,0,22,Female,0
+19750,Sales Rep,Sales & Marketing,3,37.2,77372,FT,2080,8,1,29,Female,1
+19751,Assembler,Operations,1,21.34,25609,PT,1200,5,5,27,Male,1
+19753,Operator,Operations,1,21.63,25957,PT,1200,5,2,25,Male,1
+19769,Analyst,IT,3,45.85,95362,FT,2080,15,12,39,Male,0
+19782,Tech,IT,1,26.11,54316,FT,2080,17,1,39,Female,0
+19786,Clerk,Finance,1,19.34,27080,PT,1400,20,18,47,Female,0
+19797,Accountant,Finance,3,49.43,102810,FT,2080,20,19,44,Male,0
+19801,Engineer,Operations,3,53.94,112205,FT,2080,3,1,28,Male,0
+19821,Team Lead,IT,2,43.54,90563,FT,2080,26,9,48,Male,1
+19822,Analyst,IT,3,28.81,17288,PT,600,1,1,29,Male,0
+19826,Analyst,Operations,3,37.74,78505,FT,2080,11,9,34,Male,0
+19858,Operator,Operations,1,21.66,25997,PT,1200,9,6,31,Male,0
+19887,Analyst,Sales & Marketing,3,47.39,98582,FT,2080,16,5,42,Female,1
+19890,Coordinator,Logistics,3,28.63,60128,FT,2100,11,1,39,Female,0
+19896,Operator,Operations,1,20.27,16216,PT,800,7,7,26,Female,0
+19900,Tech,IT,1,29.62,61610,FT,2080,13,12,34,Male,1
+19901,Analyst,IT,3,45.56,94772,FT,2080,18,14,44,Male,0
+19937,Operator,Operations,1,25.16,52322,FT,2080,22,18,44,Female,0
+19939,Sales Rep,Sales & Marketing,3,26.22,54543,FT,2080,26,23,48,Male,1
+19962,Sales Rep,Sales & Marketing,3,50.77,105603,FT,2080,15,9,38,Female,0
+19964,Clerk,Logistics,1,16.31,34243,FT,2100,10,10,38,Male,0
+19993,Analyst,IT,3,48.73,101357,FT,2080,12,12,39,Male,0
+19998,Tech,Operations,1,22.63,18107,PT,800,10,1,31,Male,1
+19999,Sales Rep,Sales & Marketing,3,50.28,104579,FT,2080,7,1,27,Female,0
+20000,Analyst,Finance,3,40.56,84360,FT,2080,11,11,36,Female,1
+20001,Analyst,Operations,3,49.25,102440,FT,2080,7,4,32,Male,0
+20002,Analyst,Operations,3,47.411,98615,FT,2080,7,3,29,Female,1
+20003,Analyst,Operations,3,53.118,110485,FT,2080,13,8,42,Male,0
+20004,Analyst,Operations,3,45.942,95559,FT,2080,3,1,23,Female,0
+20005,Analyst,Operations,3,46.306,96316,FT,2080,2,1,26,Male,1
+20006,Analyst,Operations,3,53.43,111134,FT,2080,16,5,31,Male,0
+20007,Analyst,Operations,3,51.285,106673,FT,2080,9,7,29,Female,0
+20008,Analyst,Operations,3,48.33,100526,FT,2080,4,2,26,Male,1
+20009,Analyst,Operations,3,45.604,94856,FT,2080,6,4,29,Female,1
+20010,Analyst,Operations,3,50.25,104520,FT,2080,12,7,38,Male,0
+20011,Analyst,Operations,3,51.597,107322,FT,2080,18,5,35,Female,0
+20012,Analyst,Operations,3,49.062,102049,FT,2080,12,9,34,Male,0
+20013,Engineer,Operations,3,49.41,102766,FT,2080,12,2,43,Male,0
+20014,Engineer,Operations,3,58.95,122621,FT,2080,18,12,51,Male,0
+20015,Engineer,Operations,3,55.32,115073,FT,2080,11,1,28,Male,1
+20016,Engineer,Operations,3,45,93610,FT,2080,5,1,29,Female,0
+20017,Engineer,Operations,3,48.89,101689,FT,2080,7,1,32,Male,0
+20018,Engineer,Operations,3,54.54,113453,FT,2080,15,7,38,Male,1
+20019,Engineer,Operations,3,44,91520,FT,2080,4,1,26,Female,1
+20020,Engineer,Operations,3,51,106080,FT,2080,13,4,34,Male,0
+20021,Engineer,Operations,3,47.43,98655,FT,2080,4,1,29,Male,0
+20022,Accountant,Finance,3,48.8529,101614,FT,2080,8,12,39,Male,0
+20023,Accountant,Finance,3,50.5138986,105069,FT,2080,10,12,39,Male,0
+20024,Accountant,Finance,3,51.52417657,107170,FT,2080,12,12,39,Male,0
+20025,Accountant,Finance,3,53.27599858,110814,FT,2080,14,12,39,Male,1
+20026,Accountant,Finance,3,53.80875856,111922,FT,2080,17,12,39,Male,0
+20027,Accountant,Finance,3,55.63825635,115728,FT,2080,18,12,39,Male,0
+20028,Accountant,Finance,3,56.19463892,116885,FT,2080,21,12,39,Male,0
+20029,Accountant,Finance,3,48.8529,101614,FT,2080,11,12,39,Male,1
+20030,Accountant,Finance,3,50.5138986,105069,FT,2080,15,12,39,Female,0
+20031,Accountant,Finance,3,51.52417657,107170,FT,2080,16,12,39,Male,0
